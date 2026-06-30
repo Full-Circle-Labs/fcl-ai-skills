@@ -1,0 +1,16 @@
+{
+  "name": "interact-with-fcl-api",
+  "displayName": "FCL API",
+  "description": "Place sequencing orders, check status, and retrieve results via the Full Circle Labs API. Covers the full workflow: browse products, manage carts, place orders, poll status, and fetch FASTA sequences.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Full Circle Labs",
+    "email": "contact@fullcirclelabs.bio"
+  },
+  "homepage": "https://docs.fullcirclelabs.bio/docs/api",
+  "repository": "https://github.com/fullcirclelabs/fcl-ai-skills",
+  "license": "MIT",
+  "keywords": ["sequencing", "genomics", "plasmid", "PCR", "FASTA", "biotech"],
+  "category": "science",
+  "skills": "./skills"
+}

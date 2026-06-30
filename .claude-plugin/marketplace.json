@@ -1,0 +1,19 @@
+{
+  "name": "fullcirclelabs-fcl-ai-skills",
+  "displayName": "Full Circle Labs",
+  "description": "Official FCL plugins for AI-assisted sequencing workflows.",
+  "owner": {
+    "name": "Full Circle Labs",
+    "email": "contact@fullcirclelabs.bio"
+  },
+  "homepage": "https://docs.fullcirclelabs.bio",
+  "repository": "https://github.com/fullcirclelabs/fcl-ai-skills",
+  "plugins": [
+    {
+      "name": "interact-with-fcl-api",
+      "displayName": "FCL API",
+      "description": "Place sequencing orders, check status, and retrieve results via the FCL API.",
+      "source": "./plugins/interact-with-fcl-api"
+    }
+  ]
+}
